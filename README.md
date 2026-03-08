@@ -1,5 +1,5 @@
 # crypto-risk-calculator
-crypto-risk-calculator using MCMC
+Crypto-risk-calculator using MCMC
 This project analyzes the volatility (risk) of cryptocurrencies using Bayesian MCMC. The goal is to estimate the volatility of individual assets and evaluate the risk of an equal-weight cryptocurrency portfolio.The analysis uses historical price data to compute log returns and estimate volatility distributions for each asset.
 
 The following cryptocurrencies were included in the analysis:<br>
